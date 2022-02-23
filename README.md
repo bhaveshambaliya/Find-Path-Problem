@@ -1,4 +1,4 @@
-# object findPath
+# Object findPath
 
 ### License
 
